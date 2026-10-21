@@ -1,6 +1,6 @@
 # NextITS <img src='images/NextITS_logo.svg' align="right" height="70" />
 
-# Original repo (forked at Nucleomics and maintained in the fork: [NC_NextITS](https://github.com/Nucleomics-VIB/NC_NextITS))
+# Original repo (forked at Nucleomics and maintained in the fork: [nextits-nc](https://github.com/Nucleomics-VIB/nextits-nc))
 
 ![GitHub (latest release)](https://img.shields.io/github/v/release/vmikk/NextITS?label=GitHub%20release&color=23aa62)
 [![Nextflow](https://img.shields.io/badge/Nextflow%20DSL2-%E2%89%A524.04-23aa62.svg)](https://www.nextflow.io/)
